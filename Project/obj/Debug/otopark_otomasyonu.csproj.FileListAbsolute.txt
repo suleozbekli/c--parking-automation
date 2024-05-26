@@ -1,0 +1,128 @@
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\source\repos\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.exe
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\Yeni klasör\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\ozipe\Desktop\Yeni klasör\bin\Debug\otopark_otomasyonu.exe
+C:\Users\ozipe\Desktop\Yeni klasör\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.Marka.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.Seri.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.çıkış.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.araç_çıkışı.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.Satis.resources
+C:\Users\ozipe\Desktop\Yeni klasör\obj\Debug\otopark_otomasyonu.Form2.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\bin\Debug\otopark_otomasyonu.exe
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.araç_çıkışı.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Form2.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Marka.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Satis.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Seri.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.çıkış.resources
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.exe
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Form3.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\bin\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.araç_çıkışı.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Form2.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Form3.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Marka.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Satis.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.Seri.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.çıkış.resources
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\OneDrive\Masaüstü\Enson\deneme\Yeni klasör\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\bin\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.araç_çıkışı.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Form2.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Form3.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Marka.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Satis.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.Seri.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.çıkış.resources
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\OneDrive\Masaüstü\deneme2\Yeni klasör\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.araç_çıkışı.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form2.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form3.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Marka.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Satis.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Seri.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.çıkış.resources
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.exe
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\bin\Debug\otopark_otomasyonu.exe
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\ozipe\Desktop\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form5.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\bin\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.araçkaydı.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.araçyerleri.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.araç_çıkışı.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form2.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form3.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form5.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Marka.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Satis.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Seri.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.çıkış.resources
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.exe
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\suleo\OneDrive\Masaüstü\BİLGİSAYAR PROGRAMLAMA II\Programlama 2\Otoparkson\Şule\Yeni klasör\obj\Debug\otopark_otomasyonu.Form6.resources
